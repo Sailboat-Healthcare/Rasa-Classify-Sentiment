@@ -18,7 +18,7 @@ setuptools.setup(
     name="sailboat.classifysentiment",
     version="0.0.1",
     url="https://github.com/Sailboat-Healthcare/Rasa-Classify-Sentiment",
-    description="Empirically validated by multiple independent human judges, this component implements the VADER lexicon providing a long awaited'gold-standard' sentiment lexicon to Rasa that is especially attuned to microblog-like contexts.",
+    description="Empirically validated by multiple independent human judges, this component implements the VADER lexicon providing a long awaited'gold-standard' sentiment lexicon to Rasa that is especially attuned to current conversational context.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="Apache License Version 2.0",
